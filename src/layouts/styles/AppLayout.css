@@ -1,0 +1,29 @@
+.AppLayout {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 5vh;
+  text-align: center;
+}
+
+.ActionArea {
+  display: flex;
+  flex-direction: row;
+}
+
+.ActionArea input {
+  font-size: 5vh;
+  height: 8vh;
+}
+
+.ActionArea label {
+  font-size: 5vh;
+}
+
+.ActionArea button {
+  height: 10vh;
+  font-size: 5vh;
+  margin: 2vw;
+}

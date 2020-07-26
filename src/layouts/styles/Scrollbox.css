@@ -1,0 +1,16 @@
+.Scrollbox {
+  max-height: 75vh;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+[type="checkbox"] {
+  vertical-align: middle;
+}
+
+label {
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
