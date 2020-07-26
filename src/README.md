@@ -1,1 +1,0 @@
-# chinese-review-app
